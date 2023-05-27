@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/out.dir/main.cpp.o -o out 
+/usr/bin/c++  -Wall CMakeFiles/out.dir/main.cpp.o -o out  -Wl,-Bstatic -lTgBot -Wl,-Bdynamic /usr/lib/libssl.so /usr/lib/libcrypto.so /usr/lib/libboost_system.so.1.81.0 /usr/lib/libcurl.so 
