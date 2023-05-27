@@ -1,0 +1,3 @@
+/home/neron/Projects/telegrem bot/build/CMakeFiles/out.dir
+/home/neron/Projects/telegrem bot/build/CMakeFiles/edit_cache.dir
+/home/neron/Projects/telegrem bot/build/CMakeFiles/rebuild_cache.dir
