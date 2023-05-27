@@ -13,8 +13,9 @@ int main()
 
     bot.getEvents().onNonCommandMessage([&bot](TgBot::Message::Ptr message)
                                         {
-                                    std::reverse(message->text.begin(), message->text.end());
-                                    bot.getApi().sendMessage(message->chat->id, message->text); });
+                                    std::string msg = StringTools::urlDecode(message->text);
+                                    //std::reverse(msg.begin(), msg.end());
+                                    bot.getApi().sendMessage(message->chat->id, message->chat->firstName + " " + msg); });
     try
     {
         printf("Bot username: %s\n", bot.getApi().getMe()->username.c_str());
