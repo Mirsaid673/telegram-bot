@@ -28,26 +28,34 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
   /usr/include/bits/stdio_lim.h \
   /usr/include/bits/floatn.h \
   /usr/include/bits/floatn-common.h \
-  /usr/local/include/tgbot/tgbot.h \
-  /usr/local/include/tgbot/Api.h \
-  /usr/local/include/tgbot/TgException.h \
-  /usr/local/include/tgbot/export.h \
-  /usr/include/c++/12.2.1/string \
+  /usr/include/c++/12.2.1/codecvt \
+  /usr/include/c++/12.2.1/bits/locale_classes.h \
+  /usr/include/c++/12.2.1/bits/localefwd.h \
   /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
   /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
   /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
   /usr/include/c++/12.2.1/pstl/pstl_config.h \
+  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
+  /usr/include/c++/12.2.1/clocale \
+  /usr/include/locale.h \
+  /usr/include/bits/locale.h \
+  /usr/include/bits/types/locale_t.h \
+  /usr/include/bits/types/__locale_t.h \
+  /usr/include/c++/12.2.1/iosfwd \
   /usr/include/c++/12.2.1/bits/stringfwd.h \
   /usr/include/c++/12.2.1/bits/memoryfwd.h \
-  /usr/include/c++/12.2.1/bits/char_traits.h \
   /usr/include/c++/12.2.1/bits/postypes.h \
   /usr/include/c++/12.2.1/cwchar \
   /usr/include/wchar.h \
   /usr/include/bits/wchar.h \
   /usr/include/bits/types/wint_t.h \
   /usr/include/bits/types/mbstate_t.h \
-  /usr/include/bits/types/locale_t.h \
-  /usr/include/bits/types/__locale_t.h \
+  /usr/include/c++/12.2.1/cctype \
+  /usr/include/ctype.h \
+  /usr/include/bits/endian.h \
+  /usr/include/bits/endianness.h \
+  /usr/include/c++/12.2.1/string \
+  /usr/include/c++/12.2.1/bits/char_traits.h \
   /usr/include/c++/12.2.1/type_traits \
   /usr/include/c++/12.2.1/cstdint \
   /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h \
@@ -63,16 +71,6 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
   /usr/include/c++/12.2.1/bits/exception_defines.h \
   /usr/include/c++/12.2.1/bits/move.h \
   /usr/include/c++/12.2.1/bits/cpp_type_traits.h \
-  /usr/include/c++/12.2.1/bits/localefwd.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h \
-  /usr/include/c++/12.2.1/clocale \
-  /usr/include/locale.h \
-  /usr/include/bits/locale.h \
-  /usr/include/c++/12.2.1/iosfwd \
-  /usr/include/c++/12.2.1/cctype \
-  /usr/include/ctype.h \
-  /usr/include/bits/endian.h \
-  /usr/include/bits/endianness.h \
   /usr/include/c++/12.2.1/bits/ostream_insert.h \
   /usr/include/c++/12.2.1/bits/cxxabi_forced.h \
   /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h \
@@ -141,6 +139,30 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
   /usr/include/bits/types/error_t.h \
   /usr/include/c++/12.2.1/bits/charconv.h \
   /usr/include/c++/12.2.1/bits/basic_string.tcc \
+  /usr/include/c++/12.2.1/ext/atomicity.h \
+  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
+  /usr/include/pthread.h \
+  /usr/include/sched.h \
+  /usr/include/bits/sched.h \
+  /usr/include/bits/types/struct_sched_param.h \
+  /usr/include/bits/cpu-set.h \
+  /usr/include/time.h \
+  /usr/include/bits/time.h \
+  /usr/include/bits/timex.h \
+  /usr/include/bits/types/struct_tm.h \
+  /usr/include/bits/types/struct_itimerspec.h \
+  /usr/include/bits/setjmp.h \
+  /usr/include/bits/types/struct___jmp_buf_tag.h \
+  /usr/include/bits/pthread_stack_min-dynamic.h \
+  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
+  /usr/include/sys/single_threaded.h \
+  /usr/include/c++/12.2.1/bits/locale_classes.tcc \
+  /usr/include/c++/12.2.1/bits/codecvt.h \
+  /usr/local/include/tgbot/tgbot.h \
+  /usr/local/include/tgbot/Api.h \
+  /usr/local/include/tgbot/TgException.h \
+  /usr/local/include/tgbot/export.h \
   /usr/include/c++/12.2.1/stdexcept \
   /usr/include/c++/12.2.1/exception \
   /usr/include/c++/12.2.1/bits/exception_ptr.h \
@@ -164,24 +186,6 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
   /usr/include/c++/12.2.1/bits/shared_ptr_base.h \
   /usr/include/c++/12.2.1/bits/allocated_ptr.h \
   /usr/include/c++/12.2.1/ext/aligned_buffer.h \
-  /usr/include/c++/12.2.1/ext/atomicity.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
-  /usr/include/pthread.h \
-  /usr/include/sched.h \
-  /usr/include/bits/sched.h \
-  /usr/include/bits/types/struct_sched_param.h \
-  /usr/include/bits/cpu-set.h \
-  /usr/include/time.h \
-  /usr/include/bits/time.h \
-  /usr/include/bits/timex.h \
-  /usr/include/bits/types/struct_tm.h \
-  /usr/include/bits/types/struct_itimerspec.h \
-  /usr/include/bits/setjmp.h \
-  /usr/include/bits/types/struct___jmp_buf_tag.h \
-  /usr/include/bits/pthread_stack_min-dynamic.h \
-  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h \
-  /usr/include/sys/single_threaded.h \
   /usr/include/c++/12.2.1/ext/concurrence.h \
   /usr/include/c++/12.2.1/bits/shared_ptr_atomic.h \
   /usr/include/c++/12.2.1/bits/atomic_base.h \
@@ -623,8 +627,6 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
   /usr/include/c++/12.2.1/algorithm \
   /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h \
   /usr/include/c++/12.2.1/locale \
-  /usr/include/c++/12.2.1/bits/locale_classes.h \
-  /usr/include/c++/12.2.1/bits/locale_classes.tcc \
   /usr/include/c++/12.2.1/bits/locale_facets.h \
   /usr/include/c++/12.2.1/cwctype \
   /usr/include/wctype.h \
@@ -643,7 +645,6 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
   /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/time_members.h \
   /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/messages_members.h \
   /usr/include/libintl.h \
-  /usr/include/c++/12.2.1/bits/codecvt.h \
   /usr/include/c++/12.2.1/bits/locale_facets_nonio.tcc \
   /usr/include/c++/12.2.1/bits/locale_conv.h \
   /usr/include/c++/12.2.1/iterator \
@@ -3409,7 +3410,7 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/boost/preprocessor/seq/elem.hpp:
 
-/usr/include/boost/preprocessor/facilities/empty.hpp:
+/usr/include/boost/preprocessor/repetition/detail/limits/for_256.hpp:
 
 /usr/include/bits/flt-eval-method.h:
 
@@ -3645,12 +3646,6 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/boost/type_traits/detail/is_function_cxx_11.hpp:
 
-/usr/include/boost/mpl/aux_/arithmetic_op.hpp:
-
-/usr/include/boost/mpl/aux_/preprocessor/params.hpp:
-
-/usr/include/bits/types/clock_t.h:
-
 /usr/include/c++/12.2.1/cctype:
 
 /usr/include/boost/mpl/has_xxx.hpp:
@@ -3809,14 +3804,6 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/c++/12.2.1/pstl/execution_defs.h:
 
-/usr/include/boost/asio/execution/mapping.hpp:
-
-/usr/include/boost/preprocessor/punctuation/comma.hpp:
-
-/usr/include/boost/asio/detail/wait_op.hpp:
-
-/usr/include/boost/mpl/integral_c_tag.hpp:
-
 /usr/include/boost/multi_index/detail/access_specifier.hpp:
 
 /usr/include/boost/asio/detail/non_const_lvalue.hpp:
@@ -3842,8 +3829,6 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 /usr/include/sys/socket.h:
 
 /usr/include/boost/mpl/empty_fwd.hpp:
-
-/usr/include/boost/preprocessor/logical/limits/bool_256.hpp:
 
 /usr/include/boost/mpl/aux_/O1_size_impl.hpp:
 
@@ -4019,6 +4004,8 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/boost/mpl/aux_/config/lambda.hpp:
 
+/usr/include/c++/12.2.1/codecvt:
+
 /usr/include/c++/12.2.1/bits/unordered_map.h:
 
 /usr/local/include/tgbot/types/ChatMemberLeft.h:
@@ -4044,6 +4031,14 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 /usr/include/boost/asio/impl/buffered_read_stream.hpp:
 
 /usr/local/include/tgbot/types/ReplyKeyboardMarkup.h:
+
+/usr/local/include/tgbot/types/UserProfilePhotos.h:
+
+/usr/include/boost/move/detail/type_traits.hpp:
+
+/usr/include/linux/posix_types.h:
+
+/usr/local/include/tgbot/types/WebhookInfo.h:
 
 /usr/include/alloca.h:
 
@@ -4093,6 +4088,12 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/bits/atomic_wide_counter.h:
 
+/usr/include/bits/types/clock_t.h:
+
+/usr/include/boost/mpl/aux_/arithmetic_op.hpp:
+
+/usr/include/boost/mpl/aux_/preprocessor/params.hpp:
+
 /usr/include/boost/predef/detail/os_detected.h:
 
 /usr/include/bits/types/__fpos_t.h:
@@ -4121,10 +4122,6 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/ctype.h:
 
-/usr/include/boost/foreach_fwd.hpp:
-
-/usr/include/boost/mpl/aux_/has_key_impl.hpp:
-
 /usr/include/boost/multi_index/detail/index_base.hpp:
 
 /usr/include/boost/predef/hardware/simd/ppc/versions.h:
@@ -4149,6 +4146,10 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/stdlib.h:
 
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/boost/type_traits/remove_pointer.hpp:
+
 /usr/include/c++/12.2.1/bits/functional_hash.h:
 
 /usr/include/c++/12.2.1/bits/hashtable_policy.h:
@@ -4167,33 +4168,27 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/c++/12.2.1/bits/alloc_traits.h:
 
+/usr/include/boost/asio/detail/reactive_socket_connect_op.hpp:
+
+/usr/include/boost/mpl/set/aux_/erase_impl.hpp:
+
 /usr/include/boost/mpl/aux_/na_fwd.hpp:
 
 /usr/include/boost/optional/detail/optional_reference_spec.hpp:
 
 /usr/include/boost/mpl/aux_/na_spec.hpp:
 
-/usr/local/include/tgbot/types/UserProfilePhotos.h:
-
-/usr/include/boost/preprocessor/identity.hpp:
-
-/usr/include/boost/optional/detail/optional_aligned_storage.hpp:
-
-/usr/include/boost/type_traits/decay.hpp:
-
-/usr/local/include/tgbot/types/BotCommandScopeDefault.h:
-
-/usr/include/c++/12.2.1/utility:
-
-/usr/include/c++/12.2.1/bits/range_access.h:
-
-/usr/include/boost/mpl/aux_/config/forwarding.hpp:
-
 /usr/include/boost/asio/ip/network_v6.hpp:
 
 /usr/include/boost/container_hash/hash_fwd.hpp:
 
 /usr/local/include/tgbot/TgException.h:
+
+/usr/local/include/tgbot/types/BotCommandScopeDefault.h:
+
+/usr/include/c++/12.2.1/utility:
+
+/usr/include/boost/type_traits/decay.hpp:
 
 /usr/include/boost/predef/architecture/ppc.h:
 
@@ -4218,6 +4213,14 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 /usr/include/boost/preprocessor/stringize.hpp:
 
 /usr/include/boost/bind/mem_fn_template.hpp:
+
+/usr/local/include/tgbot/types/MessageId.h:
+
+/usr/include/boost/asio/read_until.hpp:
+
+/usr/include/boost/config/abi_prefix.hpp:
+
+/usr/include/c++/12.2.1/bits/ptr_traits.h:
 
 /usr/local/include/tgbot/types/InlineQueryResultLocation.h:
 
@@ -4259,135 +4262,65 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/c++/12.2.1/bits/ostream_insert.h:
 
-/usr/include/boost/variant/detail/apply_visitor_delayed.hpp:
-
-/usr/include/boost/type_traits/is_array.hpp:
-
-/usr/include/boost/property_tree/string_path.hpp:
-
-/usr/include/bits/endianness.h:
-
-/usr/include/boost/predef/library.h:
-
-/usr/include/bits/termios-c_cflag.h:
-
-/usr/local/include/tgbot/types/PollAnswer.h:
-
-/usr/include/boost/mpl/iter_fold.hpp:
-
-/usr/include/boost/mpl/vector/aux_/preprocessed/typeof_based/vector20.hpp:
-
-/usr/local/include/tgbot/types/ShippingOption.h:
-
-/usr/include/boost/type_traits/remove_bounds.hpp:
-
-/usr/include/asm-generic/errno-base.h:
-
-/usr/include/c++/12.2.1/ext/string_conversions.h:
-
-/usr/include/c++/12.2.1/pstl/pstl_config.h:
-
-/usr/include/boost/mpl/int_fwd.hpp:
-
-/usr/include/c++/12.2.1/bits/nested_exception.h:
-
-/usr/include/boost/asio/execution/executor.hpp:
-
-/usr/include/c++/12.2.1/bits/refwrap.h:
-
-/usr/include/boost/preprocessor/list/detail/fold_left.hpp:
-
-/usr/include/boost/mpl/aux_/config/use_preprocessed.hpp:
-
-/usr/include/boost/mpl/aux_/config/workaround.hpp:
-
-/usr/local/include/tgbot/types/InlineQueryResultCachedAudio.h:
-
-/usr/include/boost/system/detail/error_category_impl.hpp:
-
-/usr/include/boost/asio/execution/start.hpp:
-
-/usr/include/c++/12.2.1/clocale:
-
-/usr/include/sys/single_threaded.h:
-
-/usr/include/boost/asio/detail/regex_fwd.hpp:
-
-/usr/include/asm-generic/errno.h:
-
-/usr/include/boost/preprocessor/repetition/limits/repeat_256.hpp:
-
-/usr/local/include/tgbot/types/BotCommandScopeChatMember.h:
-
-/usr/include/boost/type_traits/conditional.hpp:
-
-/usr/include/boost/asio/posix/descriptor_base.hpp:
-
-/usr/include/boost/mpl/eval_if.hpp:
-
-/usr/include/boost/type.hpp:
-
-/usr/local/include/tgbot/types/PassportElementErrorDataField.h:
-
 /usr/include/c++/12.2.1/bits/cpp_type_traits.h:
 
 /usr/include/bits/setjmp.h:
 
 /usr/include/c++/12.2.1/bits/utility.h:
 
-/usr/include/bits/types/mbstate_t.h:
+/usr/include/boost/preprocessor/comparison/not_equal.hpp:
 
-/usr/include/boost/mpl/equal_to.hpp:
+/usr/include/boost/bind/storage.hpp:
 
-/usr/local/include/tgbot/types/VideoChatEnded.h:
+/usr/include/c++/12.2.1/exception:
 
-/usr/include/boost/predef/library/std/msl.h:
+/usr/include/c++/12.2.1/bits/exception.h:
 
-/usr/include/sys/ucontext.h:
+/usr/include/bits/sigevent-consts.h:
 
-/usr/include/boost/utility/addressof.hpp:
+/usr/include/boost/preprocessor/facilities/expand.hpp:
 
-/usr/include/boost/mpl/aux_/inserter_algorithm.hpp:
+/usr/include/boost/bind/arg.hpp:
 
-/usr/include/boost/asio/execution/scheduler.hpp:
+/usr/include/boost/asio/ip/tcp.hpp:
 
-/usr/local/include/tgbot/types/Invoice.h:
+/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h:
 
-/usr/include/boost/mpl/aux_/preprocessed/gcc/vector.hpp:
+/usr/include/boost/predef/platform.h:
 
-/usr/include/stdint.h:
+/usr/include/boost/mpl/always.hpp:
 
-/usr/local/include/tgbot/types/ChatMemberBanned.h:
+/usr/include/boost/asio/detail/resolver_service.hpp:
 
-/usr/include/boost/preprocessor/enum_params.hpp:
+/usr/include/boost/mpl/vector/aux_/front.hpp:
 
-/usr/include/c++/12.2.1/debug/assertions.h:
+/usr/include/boost/smart_ptr/detail/sp_typeinfo_.hpp:
 
-/usr/include/boost/asio/signal_set.hpp:
+/usr/include/boost/predef/other.h:
 
-/usr/include/bits/signum-generic.h:
+/usr/include/bits/types/clockid_t.h:
 
-/usr/local/include/tgbot/types/InputMediaVideo.h:
+/usr/include/c++/12.2.1/bits/allocator.h:
 
-/usr/include/boost/predef/os/bsd/net.h:
+/usr/include/boost/type_traits/is_function.hpp:
 
-/usr/include/c++/12.2.1/new:
+/usr/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:
 
-/usr/local/include/tgbot/types/WriteAccessAllowed.h:
+/usr/include/boost/asio/ip/detail/endpoint.hpp:
 
-/usr/include/bits/struct_rwlock.h:
+/usr/include/boost/move/utility.hpp:
 
-/usr/include/bits/sched.h:
+/usr/include/bits/wctype-wchar.h:
 
-/usr/local/include/tgbot/types/VideoChatStarted.h:
+/usr/include/boost/multi_index/ordered_index.hpp:
 
-/usr/include/boost/asio/detail/timer_queue_set.hpp:
+/usr/include/boost/preprocessor/identity.hpp:
 
-/usr/include/boost/type_traits/function_traits.hpp:
+/usr/include/boost/optional/detail/optional_aligned_storage.hpp:
 
-/usr/include/c++/12.2.1/mutex:
+/usr/include/c++/12.2.1/bits/range_access.h:
 
-/usr/include/c++/12.2.1/vector:
+/usr/include/boost/mpl/aux_/config/forwarding.hpp:
 
 /usr/include/boost/config/pragma_message.hpp:
 
@@ -4423,13 +4356,51 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/features-time64.h:
 
+/usr/include/c++/12.2.1/bits/hash_bytes.h:
+
+/usr/include/bits/types/mbstate_t.h:
+
+/usr/include/boost/mpl/equal_to.hpp:
+
+/usr/local/include/tgbot/types/VideoChatEnded.h:
+
+/usr/include/boost/predef/library/std/msl.h:
+
+/usr/include/sys/ucontext.h:
+
+/usr/include/boost/utility/addressof.hpp:
+
+/usr/include/boost/mpl/aux_/inserter_algorithm.hpp:
+
+/usr/include/boost/asio/execution/scheduler.hpp:
+
+/usr/local/include/tgbot/types/Invoice.h:
+
+/usr/include/boost/mpl/aux_/preprocessed/gcc/vector.hpp:
+
+/usr/include/stdint.h:
+
+/usr/include/boost/preprocessor/control/if.hpp:
+
+/usr/local/include/tgbot/types/InputMediaAnimation.h:
+
+/usr/include/boost/predef/compiler/microtec.h:
+
+/usr/include/bits/time64.h:
+
+/usr/include/boost/asio/posix/descriptor.hpp:
+
+/usr/include/boost/mpl/lambda.hpp:
+
+/usr/include/bits/signal_ext.h:
+
+/usr/include/boost/mpl/aux_/adl_barrier.hpp:
+
+/usr/include/boost/predef/architecture/alpha.h:
+
+/usr/include/bits/types/FILE.h:
+
 /usr/include/boost/preprocessor/tuple/detail/is_single_return.hpp:
-
-/usr/include/boost/config/detail/select_stdlib_config.hpp:
-
-/usr/include/boost/mpl/aux_/advance_backward.hpp:
-
-/usr/include/boost/mpl/set/aux_/size_impl.hpp:
 
 /usr/include/boost/move/detail/config_end.hpp:
 
@@ -4463,17 +4434,23 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/boost/mpl/less_equal.hpp:
 
-/usr/include/boost/preprocessor/control/if.hpp:
+/usr/include/boost/asio/execution/executor.hpp:
 
-/usr/local/include/tgbot/types/InputMediaAnimation.h:
+/usr/include/c++/12.2.1/bits/refwrap.h:
 
-/usr/include/boost/predef/compiler/microtec.h:
+/usr/include/c++/12.2.1/ext/string_conversions.h:
 
-/usr/include/bits/time64.h:
+/usr/include/c++/12.2.1/pstl/pstl_config.h:
 
-/usr/include/boost/asio/posix/descriptor.hpp:
+/usr/include/boost/mpl/int_fwd.hpp:
 
-/usr/include/boost/mpl/lambda.hpp:
+/usr/include/c++/12.2.1/bits/nested_exception.h:
+
+/usr/include/boost/config/detail/select_stdlib_config.hpp:
+
+/usr/include/boost/mpl/set/aux_/size_impl.hpp:
+
+/usr/include/boost/mpl/aux_/advance_backward.hpp:
 
 /usr/include/boost/predef/architecture/sys390.h:
 
@@ -4483,20 +4460,6 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/local/include/tgbot/types/ChatMemberRestricted.h:
 
-/usr/include/boost/asio/detail/service_registry.hpp:
-
-/usr/include/boost/preprocessor/config/limits.hpp:
-
-/usr/include/boost/type_traits/has_trivial_destructor.hpp:
-
-/usr/include/c++/12.2.1/bit:
-
-/usr/include/boost/mpl/vector/aux_/preprocessed/typeof_based/vector10.hpp:
-
-/usr/include/boost/asio/execution/sender.hpp:
-
-/usr/include/boost/mpl/set/aux_/has_key_impl.hpp:
-
 /usr/include/gnu/stubs.h:
 
 /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/error_constants.h:
@@ -4505,57 +4468,9 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/boost/iterator/detail/config_undef.hpp:
 
-/usr/include/boost/mpl/set/aux_/at_impl.hpp:
-
-/usr/include/boost/asio/detail/reactive_socket_connect_op.hpp:
-
-/usr/include/boost/mpl/set/aux_/erase_impl.hpp:
-
-/usr/include/boost/multi_index/detail/is_transparent.hpp:
-
 /usr/include/boost/range/detail/misc_concept.hpp:
 
 /usr/include/stdc-predef.h:
-
-/usr/include/bits/sockaddr.h:
-
-/usr/include/boost/asio/detail/throw_exception.hpp:
-
-/usr/include/bits/endian.h:
-
-/usr/include/boost/predef/os/amigaos.h:
-
-/usr/include/boost/move/core.hpp:
-
-/usr/local/include/tgbot/TgTypeParser.h:
-
-/usr/include/boost/preprocessor/variadic/limits/elem_64.hpp:
-
-/usr/include/boost/property_tree/json_parser/detail/wide_encoding.hpp:
-
-/usr/include/boost/smart_ptr/detail/local_counted_base.hpp:
-
-/usr/local/include/tgbot/types/InlineQueryResult.h:
-
-/usr/local/include/tgbot/types/ShippingAddress.h:
-
-/usr/include/boost/asio/windows/basic_stream_handle.hpp:
-
-/usr/include/c++/12.2.1/bits/chrono.h:
-
-/usr/include/bits/types/struct_itimerspec.h:
-
-/usr/include/boost/mpl/aux_/msvc_type.hpp:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h:
-
-/usr/include/linux/close_range.h:
-
-/usr/include/bits/uintn-identity.h:
-
-/usr/include/boost/type_traits/remove_pointer.hpp:
-
-/usr/include/bits/pthreadtypes.h:
 
 /usr/include/c++/12.2.1/bits/cxxabi_forced.h:
 
@@ -4579,13 +4494,75 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/boost/type_traits/is_final.hpp:
 
-/usr/include/boost/asio/ip/detail/endpoint.hpp:
+/usr/include/boost/type_traits/alignment_of.hpp:
 
-/usr/include/boost/move/utility.hpp:
+/usr/include/c++/12.2.1/bits/predefined_ops.h:
 
-/usr/include/bits/wctype-wchar.h:
+/usr/local/include/tgbot/types/ChatMemberBanned.h:
 
-/usr/include/boost/multi_index/ordered_index.hpp:
+/usr/include/boost/predef/library.h:
+
+/usr/include/bits/termios-c_cflag.h:
+
+/usr/local/include/tgbot/types/PollAnswer.h:
+
+/usr/include/bits/endianness.h:
+
+/usr/include/boost/mpl/iter_fold.hpp:
+
+/usr/include/boost/mpl/vector/aux_/preprocessed/typeof_based/vector20.hpp:
+
+/usr/include/boost/preprocessor/enum_params.hpp:
+
+/usr/include/c++/12.2.1/debug/assertions.h:
+
+/usr/include/boost/asio/signal_set.hpp:
+
+/usr/include/bits/signum-generic.h:
+
+/usr/local/include/tgbot/types/InputMediaVideo.h:
+
+/usr/include/boost/predef/os/bsd/net.h:
+
+/usr/include/c++/12.2.1/new:
+
+/usr/local/include/tgbot/types/WriteAccessAllowed.h:
+
+/usr/include/bits/struct_rwlock.h:
+
+/usr/include/bits/sched.h:
+
+/usr/local/include/tgbot/types/VideoChatStarted.h:
+
+/usr/include/boost/asio/detail/timer_queue_set.hpp:
+
+/usr/include/boost/type_traits/function_traits.hpp:
+
+/usr/include/c++/12.2.1/mutex:
+
+/usr/include/c++/12.2.1/vector:
+
+/usr/local/include/tgbot/types/InlineQueryResultVideo.h:
+
+/usr/include/c++/12.2.1/bits/std_abs.h:
+
+/usr/include/boost/core/enable_if.hpp:
+
+/usr/include/boost/archive/detail/decl.hpp:
+
+/usr/include/boost/asio/basic_streambuf.hpp:
+
+/usr/include/boost/asio/detail/posix_signal_blocker.hpp:
+
+/usr/include/bits/types/wint_t.h:
+
+/usr/include/boost/variant/detail/apply_visitor_delayed.hpp:
+
+/usr/include/boost/type_traits/is_array.hpp:
+
+/usr/include/boost/property_tree/string_path.hpp:
+
+/usr/local/include/tgbot/types/ShippingOption.h:
 
 /usr/include/boost/system/error_condition.hpp:
 
@@ -4612,6 +4589,76 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 /usr/include/c++/12.2.1/cxxabi.h:
 
 /usr/include/boost/multi_index/detail/promotes_arg.hpp:
+
+/usr/include/linux/close_range.h:
+
+/usr/include/bits/uintn-identity.h:
+
+/usr/include/boost/asio/recycling_allocator.hpp:
+
+/usr/local/include/tgbot/types/SentWebAppMessage.h:
+
+/usr/include/boost/optional.hpp:
+
+/usr/include/boost/asio/windows/basic_stream_handle.hpp:
+
+/usr/include/c++/12.2.1/bits/chrono.h:
+
+/usr/include/bits/types/struct_itimerspec.h:
+
+/usr/include/boost/mpl/aux_/msvc_type.hpp:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdarg.h:
+
+/usr/include/boost/type_traits/has_trivial_destructor.hpp:
+
+/usr/include/c++/12.2.1/bit:
+
+/usr/include/boost/asio/detail/service_registry.hpp:
+
+/usr/include/boost/preprocessor/config/limits.hpp:
+
+/usr/include/boost/mpl/vector/aux_/preprocessed/typeof_based/vector10.hpp:
+
+/usr/include/boost/asio/execution/sender.hpp:
+
+/usr/include/boost/mpl/set/aux_/has_key_impl.hpp:
+
+/usr/include/boost/asio/posix/descriptor_base.hpp:
+
+/usr/include/boost/mpl/eval_if.hpp:
+
+/usr/include/boost/type.hpp:
+
+/usr/local/include/tgbot/types/PassportElementErrorDataField.h:
+
+/usr/include/boost/type_traits/is_signed.hpp:
+
+/usr/include/c++/12.2.1/bits/string_view.tcc:
+
+/usr/include/boost/date_time/time_duration.hpp:
+
+/usr/include/asm/posix_types_64.h:
+
+/usr/include/boost/mpl/comparison.hpp:
+
+/usr/include/boost/move/utility_core.hpp:
+
+/usr/include/boost/bind/detail/result_traits.hpp:
+
+/usr/include/boost/asio/placeholders.hpp:
+
+/usr/include/boost/asio/impl/system_context.hpp:
+
+/usr/local/include/tgbot/types/BotCommandScope.h:
+
+/usr/local/include/tgbot/types/InputVenueMessageContent.h:
+
+/usr/include/bits/types/cookie_io_functions_t.h:
+
+/usr/include/boost/preprocessor/logical/not.hpp:
+
+/usr/include/boost/core/is_same.hpp:
 
 /usr/include/boost/detail/reference_content.hpp:
 
@@ -4645,17 +4692,15 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/stdio.h:
 
-/usr/include/c++/12.2.1/bits/exception.h:
-
-/usr/include/bits/sigevent-consts.h:
-
-/usr/include/boost/preprocessor/facilities/expand.hpp:
-
-/usr/include/boost/bind/arg.hpp:
-
 /usr/include/c++/12.2.1/bits/stl_function.h:
 
 /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/ctype_base.h:
+
+/usr/include/c++/12.2.1/bits/locale_classes.h:
+
+/usr/include/boost/mpl/next.hpp:
+
+/usr/include/boost/mpl/vector/aux_/push_back.hpp:
 
 /usr/include/boost/date_time/date_duration_types.hpp:
 
@@ -4673,13 +4718,31 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/bits/types/struct_FILE.h:
 
-/usr/include/boost/asio/ip/tcp.hpp:
+/usr/include/bits/sockaddr.h:
 
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h:
+/usr/include/boost/asio/detail/throw_exception.hpp:
 
-/usr/include/boost/predef/platform.h:
+/usr/include/bits/endian.h:
 
-/usr/include/boost/mpl/always.hpp:
+/usr/include/boost/predef/os/amigaos.h:
+
+/usr/include/boost/move/core.hpp:
+
+/usr/local/include/tgbot/TgTypeParser.h:
+
+/usr/include/boost/preprocessor/variadic/limits/elem_64.hpp:
+
+/usr/include/boost/property_tree/json_parser/detail/wide_encoding.hpp:
+
+/usr/include/boost/smart_ptr/detail/local_counted_base.hpp:
+
+/usr/local/include/tgbot/types/InlineQueryResult.h:
+
+/usr/include/boost/mpl/aux_/preprocessed/gcc/greater.hpp:
+
+/usr/include/libintl.h:
+
+/usr/local/include/tgbot/types/ShippingAddress.h:
 
 /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h:
 
@@ -4693,23 +4756,41 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h:
 
-/usr/include/c++/12.2.1/bits/hash_bytes.h:
+/usr/include/boost/preprocessor/list/detail/fold_left.hpp:
 
-/usr/include/libintl.h:
+/usr/include/boost/mpl/aux_/config/use_preprocessed.hpp:
 
-/usr/include/boost/mpl/aux_/preprocessed/gcc/greater.hpp:
+/usr/include/boost/mpl/aux_/config/workaround.hpp:
 
-/usr/include/boost/preprocessor/comparison/not_equal.hpp:
+/usr/local/include/tgbot/types/InlineQueryResultCachedAudio.h:
 
-/usr/include/boost/bind/storage.hpp:
+/usr/include/boost/system/detail/error_category_impl.hpp:
 
-/usr/include/boost/asio/recycling_allocator.hpp:
+/usr/include/boost/asio/execution/start.hpp:
 
-/usr/include/boost/optional.hpp:
+/usr/include/c++/12.2.1/clocale:
 
-/usr/local/include/tgbot/types/SentWebAppMessage.h:
+/usr/include/sys/single_threaded.h:
 
-/usr/include/c++/12.2.1/exception:
+/usr/include/boost/asio/detail/regex_fwd.hpp:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/boost/preprocessor/repetition/limits/repeat_256.hpp:
+
+/usr/local/include/tgbot/types/BotCommandScopeChatMember.h:
+
+/usr/include/boost/type_traits/conditional.hpp:
+
+/usr/include/boost/asio/basic_deadline_timer.hpp:
+
+/usr/include/c++/12.2.1/bits/new_allocator.h:
+
+/usr/include/boost/variant.hpp:
+
+/usr/include/boost/mpl/deref.hpp:
+
+/usr/include/boost/mpl/aux_/preprocessed/gcc/bind.hpp:
 
 /usr/include/boost/asio/traits/submit_free.hpp:
 
@@ -4727,46 +4808,6 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/boost/concept_check.hpp:
 
-/usr/include/boost/asio/this_coro.hpp:
-
-/usr/include/bits/stdint-intn.h:
-
-/usr/include/c++/12.2.1/cwchar:
-
-/usr/include/bits/termios-c_iflag.h:
-
-/usr/include/boost/mpl/aux_/static_cast.hpp:
-
-/usr/local/include/tgbot/types/ForumTopicClosed.h:
-
-/usr/include/locale.h:
-
-/usr/include/boost/asio/impl/cancellation_signal.ipp:
-
-/usr/local/include/tgbot/types/File.h:
-
-/usr/include/bits/getopt_posix.h:
-
-/usr/include/boost/asio/io_service_strand.hpp:
-
-/usr/include/errno.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h:
-
-/usr/include/boost/core/enable_if.hpp:
-
-/usr/include/boost/archive/detail/decl.hpp:
-
-/usr/include/boost/asio/basic_streambuf.hpp:
-
-/usr/include/boost/asio/detail/posix_signal_blocker.hpp:
-
-/usr/include/bits/types/wint_t.h:
-
-/usr/local/include/tgbot/types/InlineQueryResultVideo.h:
-
-/usr/include/c++/12.2.1/bits/std_abs.h:
-
 /usr/include/boost/asio/posix/basic_descriptor.hpp:
 
 /usr/include/c++/12.2.1/bits/stl_relops.h:
@@ -4781,17 +4822,25 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/bits/types/locale_t.h:
 
-/usr/include/boost/mpl/aux_/config/static_constant.hpp:
+/usr/include/bits/termios-c_iflag.h:
 
-/usr/local/include/tgbot/types/InputMediaAudio.h:
+/usr/include/boost/mpl/aux_/static_cast.hpp:
 
-/usr/include/boost/predef/other/wordsize.h:
+/usr/local/include/tgbot/types/ForumTopicClosed.h:
 
-/usr/include/gnu/stubs-64.h:
+/usr/include/boost/asio/impl/cancellation_signal.ipp:
 
-/usr/include/boost/mpl/vector.hpp:
+/usr/local/include/tgbot/types/File.h:
 
-/usr/include/boost/type_traits/add_pointer.hpp:
+/usr/include/bits/getopt_posix.h:
+
+/usr/include/boost/asio/io_service_strand.hpp:
+
+/usr/include/errno.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stddef.h:
+
+/usr/include/locale.h:
 
 /usr/include/boost/type_traits/is_integral.hpp:
 
@@ -4810,16 +4859,6 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 /usr/include/boost/asio/execution/allocator.hpp:
 
 /usr/include/boost/mpl/empty.hpp:
-
-/usr/include/c++/12.2.1/bits/allocator.h:
-
-/usr/include/boost/predef/other.h:
-
-/usr/include/bits/types/clockid_t.h:
-
-/usr/include/boost/type_traits/is_function.hpp:
-
-/usr/include/boost/smart_ptr/detail/sp_thread_sleep.hpp:
 
 /usr/include/c++/12.2.1/bits/stl_algobase.h:
 
@@ -4847,57 +4886,27 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/boost/mpl/has_key_fwd.hpp:
 
-/usr/include/boost/asio/detail/resolver_service.hpp:
+/usr/include/boost/type_traits/remove_bounds.hpp:
 
-/usr/include/boost/mpl/vector/aux_/front.hpp:
+/usr/include/asm-generic/errno-base.h:
 
-/usr/include/boost/smart_ptr/detail/sp_typeinfo_.hpp:
+/usr/include/boost/asio/this_coro.hpp:
 
-/usr/include/boost/type_traits/is_signed.hpp:
+/usr/include/bits/stdint-intn.h:
 
-/usr/include/c++/12.2.1/bits/string_view.tcc:
+/usr/include/c++/12.2.1/cwchar:
 
-/usr/include/boost/date_time/time_duration.hpp:
+/usr/include/boost/mpl/aux_/config/static_constant.hpp:
 
-/usr/include/asm/posix_types_64.h:
+/usr/local/include/tgbot/types/InputMediaAudio.h:
 
-/usr/include/boost/mpl/comparison.hpp:
+/usr/include/boost/predef/other/wordsize.h:
 
-/usr/local/include/tgbot/types/InputVenueMessageContent.h:
+/usr/include/gnu/stubs-64.h:
 
-/usr/include/bits/types/cookie_io_functions_t.h:
+/usr/include/boost/mpl/vector.hpp:
 
-/usr/include/boost/preprocessor/logical/not.hpp:
-
-/usr/include/boost/core/is_same.hpp:
-
-/usr/include/boost/move/utility_core.hpp:
-
-/usr/include/boost/bind/detail/result_traits.hpp:
-
-/usr/include/boost/asio/placeholders.hpp:
-
-/usr/include/boost/asio/impl/system_context.hpp:
-
-/usr/local/include/tgbot/types/BotCommandScope.h:
-
-/usr/include/boost/asio/basic_deadline_timer.hpp:
-
-/usr/include/c++/12.2.1/bits/new_allocator.h:
-
-/usr/include/boost/variant.hpp:
-
-/usr/include/boost/mpl/deref.hpp:
-
-/usr/include/boost/mpl/aux_/preprocessed/gcc/bind.hpp:
-
-/usr/include/bits/signal_ext.h:
-
-/usr/include/boost/mpl/aux_/adl_barrier.hpp:
-
-/usr/include/boost/predef/architecture/alpha.h:
-
-/usr/include/bits/types/FILE.h:
+/usr/include/boost/type_traits/add_pointer.hpp:
 
 /usr/include/bits/timerfd.h:
 
@@ -4963,6 +4972,110 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/boost/mpl/vector/aux_/push_front.hpp:
 
+/usr/include/boost/asio/detail/concurrency_hint.hpp:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/bits/unistd_ext.h:
+
+/usr/local/include/tgbot/types/InlineQueryResultCachedVoice.h:
+
+/usr/include/boost/predef/os/cygwin.h:
+
+/usr/include/boost/predef/compiler/dignus.h:
+
+/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h:
+
+/usr/include/boost/asio/detail/wait_op.hpp:
+
+/usr/include/boost/mpl/integral_c_tag.hpp:
+
+/usr/include/boost/asio/execution/mapping.hpp:
+
+/usr/include/boost/preprocessor/punctuation/comma.hpp:
+
+/usr/include/boost/date_time/period.hpp:
+
+/usr/include/pthread.h:
+
+/usr/include/boost/multi_index/detail/uintptr_type.hpp:
+
+/usr/include/boost/asio/detail/thread_info_base.hpp:
+
+/usr/include/boost/asio/execution/detail/as_operation.hpp:
+
+/usr/local/include/tgbot/types/ChatJoinRequest.h:
+
+/usr/include/boost/predef/os/macos.h:
+
+/usr/include/boost/property_tree/ptree.hpp:
+
+/usr/include/bits/mathcalls-helper-functions.h:
+
+/usr/local/include/tgbot/types/InputLocationMessageContent.h:
+
+/usr/include/boost/mpl/insert_range_fwd.hpp:
+
+/usr/include/bits/cpu-set.h:
+
+/usr/include/boost/type_traits/is_default_constructible.hpp:
+
+/usr/include/boost/asio/detail/select_interrupter.hpp:
+
+/usr/include/boost/container/container_fwd.hpp:
+
+/usr/include/c++/12.2.1/cstddef:
+
+/usr/include/boost/mpl/vector/aux_/pop_front.hpp:
+
+/usr/include/boost/asio/time_traits.hpp:
+
+/usr/include/boost/asio/traits/set_done_free.hpp:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/boost/mpl/aux_/numeric_cast_utils.hpp:
+
+/usr/include/boost/utility.hpp:
+
+/usr/include/boost/property_tree/json_parser/error.hpp:
+
+/usr/include/bits/types/struct___jmp_buf_tag.h:
+
+/usr/include/boost/asio/detail/call_stack.hpp:
+
+/usr/include/boost/mpl/vector/aux_/empty.hpp:
+
+/usr/include/boost/numeric/conversion/detail/udt_builtin_mixture.hpp:
+
+/usr/include/boost/multi_index/tag.hpp:
+
+/usr/include/boost/format/detail/workarounds_stlport.hpp:
+
+/usr/include/boost/smart_ptr/detail/spinlock_pool.hpp:
+
+/usr/include/boost/concept/detail/backward_compatibility.hpp:
+
+/usr/include/poll.h:
+
+/usr/local/include/tgbot/types/KeyboardButtonRequestUser.h:
+
+/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h:
+
+/usr/include/c++/12.2.1/bits/locale_classes.tcc:
+
+/usr/include/boost/asio/execution/any_executor.hpp:
+
+/usr/include/boost/multi_index/detail/ord_index_args.hpp:
+
+/usr/include/boost/optional/detail/optional_factory_support.hpp:
+
+/usr/local/include/tgbot/types/WebAppData.h:
+
+/usr/include/boost/mpl/set/aux_/at_impl.hpp:
+
+/usr/include/boost/multi_index/detail/is_transparent.hpp:
+
 /usr/include/boost/predef/make.h:
 
 /usr/include/c++/12.2.1/stdexcept:
@@ -4972,6 +5085,12 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 /usr/include/boost/mpl/aux_/config/integral.hpp:
 
 /usr/include/boost/smart_ptr/detail/sp_thread_pause.hpp:
+
+/usr/include/bits/types/__FILE.h:
+
+/usr/include/boost/mpl/same_as.hpp:
+
+/usr/include/boost/mpl/limits/arity.hpp:
 
 /usr/include/bits/libc-header-start.h:
 
@@ -5007,18 +5126,6 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/local/include/tgbot/types/PreCheckoutQuery.h:
 
-/usr/include/boost/asio/time_traits.hpp:
-
-/usr/include/boost/asio/traits/set_done_free.hpp:
-
-/usr/include/bits/waitstatus.h:
-
-/usr/include/boost/mpl/aux_/numeric_cast_utils.hpp:
-
-/usr/include/boost/utility.hpp:
-
-/usr/include/boost/property_tree/json_parser/error.hpp:
-
 /usr/include/boost/predef/language/objc.h:
 
 /usr/include/bits/timesize.h:
@@ -5053,87 +5160,11 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/local/include/tgbot/types/Audio.h:
 
-/usr/include/c++/12.2.1/bits/shared_ptr_base.h:
-
-/usr/include/bits/types/struct___jmp_buf_tag.h:
-
-/usr/include/boost/asio/detail/call_stack.hpp:
-
-/usr/include/boost/mpl/vector/aux_/empty.hpp:
-
-/usr/include/boost/numeric/conversion/detail/udt_builtin_mixture.hpp:
-
-/usr/include/boost/multi_index/tag.hpp:
-
-/usr/include/boost/format/detail/workarounds_stlport.hpp:
-
-/usr/include/boost/smart_ptr/detail/spinlock_pool.hpp:
-
-/usr/include/boost/concept/detail/backward_compatibility.hpp:
-
-/usr/include/boost/asio/detail/concurrency_hint.hpp:
-
-/usr/include/bits/byteswap.h:
-
-/usr/include/bits/unistd_ext.h:
-
-/usr/local/include/tgbot/types/InlineQueryResultCachedVoice.h:
-
-/usr/include/boost/predef/os/cygwin.h:
-
-/usr/include/boost/predef/compiler/dignus.h:
-
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h:
-
-/usr/include/boost/date_time/period.hpp:
-
-/usr/include/pthread.h:
-
 /usr/local/include/tgbot/types/InputMediaDocument.h:
 
 /usr/local/include/tgbot/types/EncryptedPassportElement.h:
 
-/usr/include/boost/multi_index/detail/uintptr_type.hpp:
-
-/usr/include/bits/types/__FILE.h:
-
-/usr/include/boost/mpl/same_as.hpp:
-
-/usr/include/boost/mpl/limits/arity.hpp:
-
-/usr/include/boost/predef/os/macos.h:
-
-/usr/include/boost/property_tree/ptree.hpp:
-
-/usr/include/bits/mathcalls-helper-functions.h:
-
-/usr/local/include/tgbot/types/InputLocationMessageContent.h:
-
-/usr/include/boost/mpl/insert_range_fwd.hpp:
-
-/usr/include/bits/cpu-set.h:
-
-/usr/include/boost/type_traits/is_default_constructible.hpp:
-
-/usr/include/boost/asio/detail/select_interrupter.hpp:
-
-/usr/include/boost/container/container_fwd.hpp:
-
-/usr/include/c++/12.2.1/cstddef:
-
-/usr/include/boost/mpl/vector/aux_/pop_front.hpp:
-
-/usr/include/poll.h:
-
-/usr/local/include/tgbot/types/KeyboardButtonRequestUser.h:
-
-/usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h:
-
-/usr/include/boost/move/detail/type_traits.hpp:
-
-/usr/include/linux/posix_types.h:
-
-/usr/local/include/tgbot/types/WebhookInfo.h:
+/usr/include/c++/12.2.1/bits/shared_ptr_base.h:
 
 /usr/include/boost/asio/redirect_error.hpp:
 
@@ -5187,8 +5218,6 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/local/include/tgbot/types/InputContactMessageContent.h:
 
-/usr/include/bits/typesizes.h:
-
 /usr/include/boost/predef/detail/test.h:
 
 /usr/include/c++/12.2.1/string:
@@ -5196,6 +5225,8 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 /usr/include/boost/asio/execution/prefer_only.hpp:
 
 /usr/include/c++/12.2.1/istream:
+
+/usr/include/bits/typesizes.h:
 
 /usr/include/boost/asio/impl/thread_pool.ipp:
 
@@ -5305,37 +5336,19 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/boost/mpl/arg.hpp:
 
-/usr/include/boost/asio/execution/any_executor.hpp:
-
-/usr/include/boost/multi_index/detail/ord_index_args.hpp:
-
-/usr/include/boost/optional/detail/optional_factory_support.hpp:
-
-/usr/local/include/tgbot/types/WebAppData.h:
-
 /usr/include/boost/date_time/posix_time/posix_time_system.hpp:
 
 /usr/include/boost/variant/detail/substitute.hpp:
 
 /usr/local/include/tgbot/types/Document.h:
 
-/usr/include/boost/asio/detail/thread_info_base.hpp:
+/usr/include/boost/preprocessor/logical/limits/bool_256.hpp:
 
-/usr/include/boost/asio/execution/detail/as_operation.hpp:
+/usr/include/boost/mpl/aux_/has_key_impl.hpp:
 
-/usr/local/include/tgbot/types/ChatJoinRequest.h:
+/usr/include/boost/foreach_fwd.hpp:
 
-/usr/include/c++/12.2.1/bits/predefined_ops.h:
-
-/usr/include/boost/type_traits/alignment_of.hpp:
-
-/usr/include/boost/asio/read_until.hpp:
-
-/usr/include/boost/config/abi_prefix.hpp:
-
-/usr/include/c++/12.2.1/bits/ptr_traits.h:
-
-/usr/local/include/tgbot/types/MessageId.h:
+/usr/include/boost/preprocessor/facilities/empty.hpp:
 
 /usr/local/include/tgbot/types/VideoChatScheduled.h:
 
@@ -5508,14 +5521,6 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 /usr/local/include/tgbot/types/CallbackQuery.h:
 
 /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h:
-
-/usr/include/boost/mpl/next.hpp:
-
-/usr/include/boost/mpl/vector/aux_/push_back.hpp:
-
-/usr/include/c++/12.2.1/bits/locale_classes.h:
-
-/usr/include/c++/12.2.1/bits/locale_classes.tcc:
 
 /usr/include/boost/type_traits/is_rvalue_reference.hpp:
 
@@ -5729,9 +5734,9 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/boost/asio/detail/impl/posix_serial_port_service.ipp:
 
-/usr/local/include/tgbot/types/InlineKeyboardButton.h:
-
 /usr/include/bits/floatn-common.h:
+
+/usr/local/include/tgbot/types/InlineKeyboardButton.h:
 
 /usr/include/c++/12.2.1/cerrno:
 
@@ -6095,9 +6100,9 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 
 /usr/include/boost/multi_index/detail/ord_index_impl_fwd.hpp:
 
-/usr/include/boost/mpl/aux_/at_impl.hpp:
-
 /usr/local/include/tgbot/types/ChatMemberAdministrator.h:
+
+/usr/include/boost/mpl/aux_/at_impl.hpp:
 
 /usr/include/boost/core/noncopyable.hpp:
 
@@ -6382,8 +6387,6 @@ CMakeFiles/out.dir/main.cpp.o: /home/neron/Projects/telegrem\ bot/main.cpp \
 /usr/include/c++/12.2.1/functional:
 
 /usr/include/boost/smart_ptr/detail/spinlock_gcc_atomic.hpp:
-
-/usr/include/boost/preprocessor/repetition/detail/limits/for_256.hpp:
 
 /usr/include/boost/smart_ptr/detail/yield_k.hpp:
 

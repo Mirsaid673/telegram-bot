@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/neron/Projects/telegrem bot/build",
+  "command": "/usr/bin/g++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DHAVE_CURL  -Wall -g -std=gnu++17 -o CMakeFiles/out.dir/main.cpp.o -c \"/home/neron/Projects/telegrem bot/main.cpp\"",
+  "file": "/home/neron/Projects/telegrem bot/main.cpp",
+  "output": "CMakeFiles/out.dir/main.cpp.o"
+}
+]

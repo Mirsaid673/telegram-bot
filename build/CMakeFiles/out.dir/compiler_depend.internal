@@ -29,26 +29,34 @@ CMakeFiles/out.dir/main.cpp.o
  /usr/include/bits/stdio_lim.h
  /usr/include/bits/floatn.h
  /usr/include/bits/floatn-common.h
- /usr/local/include/tgbot/tgbot.h
- /usr/local/include/tgbot/Api.h
- /usr/local/include/tgbot/TgException.h
- /usr/local/include/tgbot/export.h
- /usr/include/c++/12.2.1/string
+ /usr/include/c++/12.2.1/codecvt
+ /usr/include/c++/12.2.1/bits/locale_classes.h
+ /usr/include/c++/12.2.1/bits/localefwd.h
  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++config.h
  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/os_defines.h
  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/cpu_defines.h
  /usr/include/c++/12.2.1/pstl/pstl_config.h
+ /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h
+ /usr/include/c++/12.2.1/clocale
+ /usr/include/locale.h
+ /usr/include/bits/locale.h
+ /usr/include/bits/types/locale_t.h
+ /usr/include/bits/types/__locale_t.h
+ /usr/include/c++/12.2.1/iosfwd
  /usr/include/c++/12.2.1/bits/stringfwd.h
  /usr/include/c++/12.2.1/bits/memoryfwd.h
- /usr/include/c++/12.2.1/bits/char_traits.h
  /usr/include/c++/12.2.1/bits/postypes.h
  /usr/include/c++/12.2.1/cwchar
  /usr/include/wchar.h
  /usr/include/bits/wchar.h
  /usr/include/bits/types/wint_t.h
  /usr/include/bits/types/mbstate_t.h
- /usr/include/bits/types/locale_t.h
- /usr/include/bits/types/__locale_t.h
+ /usr/include/c++/12.2.1/cctype
+ /usr/include/ctype.h
+ /usr/include/bits/endian.h
+ /usr/include/bits/endianness.h
+ /usr/include/c++/12.2.1/string
+ /usr/include/c++/12.2.1/bits/char_traits.h
  /usr/include/c++/12.2.1/type_traits
  /usr/include/c++/12.2.1/cstdint
  /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include/stdint.h
@@ -64,16 +72,6 @@ CMakeFiles/out.dir/main.cpp.o
  /usr/include/c++/12.2.1/bits/exception_defines.h
  /usr/include/c++/12.2.1/bits/move.h
  /usr/include/c++/12.2.1/bits/cpp_type_traits.h
- /usr/include/c++/12.2.1/bits/localefwd.h
- /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/c++locale.h
- /usr/include/c++/12.2.1/clocale
- /usr/include/locale.h
- /usr/include/bits/locale.h
- /usr/include/c++/12.2.1/iosfwd
- /usr/include/c++/12.2.1/cctype
- /usr/include/ctype.h
- /usr/include/bits/endian.h
- /usr/include/bits/endianness.h
  /usr/include/c++/12.2.1/bits/ostream_insert.h
  /usr/include/c++/12.2.1/bits/cxxabi_forced.h
  /usr/include/c++/12.2.1/bits/stl_iterator_base_types.h
@@ -142,6 +140,30 @@ CMakeFiles/out.dir/main.cpp.o
  /usr/include/bits/types/error_t.h
  /usr/include/c++/12.2.1/bits/charconv.h
  /usr/include/c++/12.2.1/bits/basic_string.tcc
+ /usr/include/c++/12.2.1/ext/atomicity.h
+ /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h
+ /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h
+ /usr/include/pthread.h
+ /usr/include/sched.h
+ /usr/include/bits/sched.h
+ /usr/include/bits/types/struct_sched_param.h
+ /usr/include/bits/cpu-set.h
+ /usr/include/time.h
+ /usr/include/bits/time.h
+ /usr/include/bits/timex.h
+ /usr/include/bits/types/struct_tm.h
+ /usr/include/bits/types/struct_itimerspec.h
+ /usr/include/bits/setjmp.h
+ /usr/include/bits/types/struct___jmp_buf_tag.h
+ /usr/include/bits/pthread_stack_min-dynamic.h
+ /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h
+ /usr/include/sys/single_threaded.h
+ /usr/include/c++/12.2.1/bits/locale_classes.tcc
+ /usr/include/c++/12.2.1/bits/codecvt.h
+ /usr/local/include/tgbot/tgbot.h
+ /usr/local/include/tgbot/Api.h
+ /usr/local/include/tgbot/TgException.h
+ /usr/local/include/tgbot/export.h
  /usr/include/c++/12.2.1/stdexcept
  /usr/include/c++/12.2.1/exception
  /usr/include/c++/12.2.1/bits/exception_ptr.h
@@ -165,24 +187,6 @@ CMakeFiles/out.dir/main.cpp.o
  /usr/include/c++/12.2.1/bits/shared_ptr_base.h
  /usr/include/c++/12.2.1/bits/allocated_ptr.h
  /usr/include/c++/12.2.1/ext/aligned_buffer.h
- /usr/include/c++/12.2.1/ext/atomicity.h
- /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr.h
- /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/gthr-default.h
- /usr/include/pthread.h
- /usr/include/sched.h
- /usr/include/bits/sched.h
- /usr/include/bits/types/struct_sched_param.h
- /usr/include/bits/cpu-set.h
- /usr/include/time.h
- /usr/include/bits/time.h
- /usr/include/bits/timex.h
- /usr/include/bits/types/struct_tm.h
- /usr/include/bits/types/struct_itimerspec.h
- /usr/include/bits/setjmp.h
- /usr/include/bits/types/struct___jmp_buf_tag.h
- /usr/include/bits/pthread_stack_min-dynamic.h
- /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/atomic_word.h
- /usr/include/sys/single_threaded.h
  /usr/include/c++/12.2.1/ext/concurrence.h
  /usr/include/c++/12.2.1/bits/shared_ptr_atomic.h
  /usr/include/c++/12.2.1/bits/atomic_base.h
@@ -624,8 +628,6 @@ CMakeFiles/out.dir/main.cpp.o
  /usr/include/c++/12.2.1/algorithm
  /usr/include/c++/12.2.1/pstl/glue_algorithm_defs.h
  /usr/include/c++/12.2.1/locale
- /usr/include/c++/12.2.1/bits/locale_classes.h
- /usr/include/c++/12.2.1/bits/locale_classes.tcc
  /usr/include/c++/12.2.1/bits/locale_facets.h
  /usr/include/c++/12.2.1/cwctype
  /usr/include/wctype.h
@@ -644,7 +646,6 @@ CMakeFiles/out.dir/main.cpp.o
  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/time_members.h
  /usr/include/c++/12.2.1/x86_64-pc-linux-gnu/bits/messages_members.h
  /usr/include/libintl.h
- /usr/include/c++/12.2.1/bits/codecvt.h
  /usr/include/c++/12.2.1/bits/locale_facets_nonio.tcc
  /usr/include/c++/12.2.1/bits/locale_conv.h
  /usr/include/c++/12.2.1/iterator
